@@ -211,3 +211,6 @@ __marimo__/
 
 # Generated vector index files
 data/sanguo_index/
+
+# IPulse pipeline output (generated, not source-controlled)
+data/ipulse/output/*.jsonl
