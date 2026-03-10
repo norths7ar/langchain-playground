@@ -1,0 +1,6 @@
+
+LangChain是一个用于构建LLM应用的框架。
+它支持对话记忆、RAG检索、Agent编排等功能。
+DeepSeek是深度求索公司开发的大语言模型，API兼容OpenAI格式。
+Kyle是一个有3年NLP经验的工程师，擅长信息抽取和知识图谱。
+        
